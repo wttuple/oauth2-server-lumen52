@@ -2,7 +2,7 @@
     "name": "optimus/oauth2-server-lumen",
     "description": "A Lumen bridge for lucadegasperi/oauth2-server-laravel",
     "require": {
-        "lucadegasperi/oauth2-server-laravel": "~4.0"
+        "lucadegasperi/oauth2-server-laravel": "~5.0"
     },
     "authors": [
         {
